@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Prefab Dependency Tracker
+description: The ultimate tool for visualizing and managing prefab dependencies in Unity.
+url: https://DecNet-Games.github.io
+baseurl: "/PrefabDependency-Doc"
+
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub Repository":
+    - //github.com/DecNet-Games/PrefabDependency-Doc
+
+heading_anchors: true
+
+# Color scheme
+color_scheme: dark
+
+# Footer
+footer_content: "Copyright &copy; 2026 DecNet Games. All rights reserved."
