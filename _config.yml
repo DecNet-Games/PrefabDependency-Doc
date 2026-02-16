@@ -3,7 +3,7 @@ description: The ultimate tool for visualizing and managing prefab dependencies 
 url: https://DecNet-Games.github.io
 baseurl: "/PrefabDependency-Doc"
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 aux_links:
   "GitHub Repository":
